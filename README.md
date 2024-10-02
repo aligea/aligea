@@ -1,10 +1,12 @@
 ## Hi there, my name is Ali Bangun Gea 👋
 
-I'm a **Software Engineer** with professional coding experience since 2013. I hold a Bachelor's degree in Computer Science from Universitas Mikroskil.
-
-📫 **How to reach me**: alibangungea@gmail.com  
-😄 **Pronouns**: he/him/his  
-⚡ **Fun fact**: I'm also involved in various wildlife conservation projects.
+👩🏻‍💻 Software Engineer | Coding since 2013
+👩🏻‍🎓 Education: B.Sc. in Computer Science, M.Sc. in Science
+💻 Interests: JavaScript, Web Scraping
+🌱 Learning: PMP, Python
+📫 Contact: alibangungea@gmail.com
+😄 Pronouns: he/him
+⚡ Fun Fact: Involved in wildlife conservation projects
 
 
 
