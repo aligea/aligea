@@ -1,8 +1,8 @@
 ## Hi there, my name is Ali Bangun Gea 👋
 
-👩🏻‍💻 Software Engineer | Coding since 2013
+👩🏻‍💻 Programmer | Coding since 2012
 👩🏻‍🎓 Education: B.Sc. in Computer Science, M.Sc. in Science
-💻 Interests: JavaScript, Web Scraping
+💻 Interests: JavaScript, PHP, Web Scraping
 🌱 Learning: PMP, Python
 📫 Contact: alibangungea@gmail.com
 😄 Pronouns: he/him
